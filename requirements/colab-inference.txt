@@ -1,0 +1,8 @@
+# Common dependencies for notebooks/*.ipynb.
+# PyTorch/CUDA are supplied by the selected Colab GPU runtime.
+# Keep inline notebook installers aligned for standalone Colab uploads.
+transformers>=5.8.0,<6
+accelerate
+pillow
+tqdm
+pandas==2.2.3

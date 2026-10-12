@@ -1,0 +1,86 @@
+{
+  "deleted_files": 16161,
+  "freed_bytes": 5430494978,
+  "moved": [
+    {
+      "from": "archive\\pre_cleanup_20261001\\reference\\(260826) 16기 AI 챌린지 데스크탑 환경설정.pdf",
+      "to": "reference\\(260826) 16기 AI 챌린지 데스크탑 환경설정.pdf"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\reference\\16기_2회차_AI_챌린지_사전_배포_가이드.pdf",
+      "to": "reference\\16기_2회차_AI_챌린지_사전_배포_가이드.pdf"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\reference\\ssafy_ai_챌린지_부리부리몬_발표자료.pptx",
+      "to": "reference\\ssafy_ai_챌린지_부리부리몬_발표자료.pptx"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\imports\\Colab Notebooks\\baseline_512_answer_only_colab.ipynb",
+      "to": "reference\\experiments\\qwen3_vl_4b_training.ipynb"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\imports\\Colab Notebooks\\baseline_512_answer_only_colab(4).ipynb",
+      "to": "reference\\experiments\\qwen25_vl_3b_training.ipynb"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\imports\\Colab Notebooks\\Gemma4_31B_DINOv3_VQA_Colab.ipynb",
+      "to": "reference\\experiments\\gemma4_executed.ipynb"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\imports\\Colab Notebooks\\(260908)_baseline_colab.ipynb",
+      "to": "reference\\experiments\\baseline_colab_executed.ipynb"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\imports\\AI CHALL 2\\gem4",
+      "to": "reference\\experiments\\gemma_qwen72b_draft.txt"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\imports\\AI CHALL 2\\Qwen_VQA_TTA_Thinking",
+      "to": "reference\\experiments\\qwen_tta_without_dino.txt"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\notebooks\\(260827)_baseline_desktop5060ti.ipynb",
+      "to": "reference\\baselines\\(260827)_baseline_desktop5060ti.ipynb"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\notebooks\\(260902)_baseline_desktop5060ti_offline.ipynb",
+      "to": "reference\\baselines\\(260902)_baseline_desktop5060ti_offline.ipynb"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\notebooks\\(260908)_baseline_colab.ipynb",
+      "to": "reference\\baselines\\(260908)_baseline_colab.ipynb"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\notebooks\\(260911)_download_libs_models.ipynb",
+      "to": "reference\\baselines\\(260911)_download_libs_models.ipynb"
+    },
+    {
+      "from": "ssafy-16-2-ai\\gemma_results",
+      "to": "results\\gemma_results"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\imports\\AI CHALL 2\\Exaone45",
+      "to": "reference\\unique_sources\\imports\\AI CHALL 2\\Exaone45"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\imports\\AI CHALL 2\\gemma4",
+      "to": "reference\\unique_sources\\imports\\AI CHALL 2\\gemma4"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\imports\\AI CHALL 2\\qwen",
+      "to": "reference\\unique_sources\\imports\\AI CHALL 2\\qwen"
+    },
+    {
+      "from": "archive\\pre_cleanup_20261001\\imports\\Colab Notebooks\\Untitled",
+      "to": "reference\\unique_sources\\imports\\Colab Notebooks\\Untitled"
+    }
+  ],
+  "deleted_categories": [
+    "ZIP archives",
+    "verified duplicate dataset",
+    "obsolete builders and mock tests",
+    "duplicate notebook copies",
+    "empty imports",
+    "rendered review images"
+  ]
+}

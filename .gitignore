@@ -1,0 +1,53 @@
+# Local data, checkpoints, model downloads and original snapshots
+/archive/
+/data/
+/ssafy-16-2-ai/
+/downloads/
+/baseline/
+/analysis/
+/results/
+/qwen_results/
+/gemma_results/
+/hf_cache/
+/models/
+/organize_repository.py
+
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+.codex/
+.aws/
+.env
+.env.*
+!.env.example
+
+# Competition materials and generated artifacts
+*.zip
+*.7z
+*.tar*
+*.csv
+*.parquet
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.pptx
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.whl
+*.log
+
+# Private presentation, guides and historical experiments
+/reference/
+/prune_workspace.py
+/duplicate_deletion_plan.json
+
+# README leaderboard screenshot
+!/docs/assets/leaderboard.png
